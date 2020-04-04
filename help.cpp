@@ -3,10 +3,11 @@ using namespace std;
 
 int main()
 {
-  set<int> s;
-  int sum=0;
-  s.insert(1);
-  s.insert(2);
-  s.insert(3);
-  accumulate(0,2,sum);
+  int n=19;
+
+  while(n!=1)
+  {
+    
+  }
+  return true;
 }
